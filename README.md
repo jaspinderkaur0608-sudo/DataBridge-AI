@@ -1,4 +1,3 @@
-# DataBridge-AI
 # DataBridge AI: Self-Healing Enterprise Ledger Migration Core
 
 DataBridge AI is an enterprise-grade, self-healing multi-agent pipeline designed to solve critical financial data migration crises. When hitting unexpected, legacy-bound structural corruptions that would typically crash enterprise jobs, DataBridge autonomously reasons, synthesizes isolated declarative processing schemas, validates structural checksums via Model Context Protocol (MCP) environments, and continues high-throughput execution entirely hands-free.
@@ -13,8 +12,6 @@ DataBridge AI relies on an orchestration pattern consisting of three specialized
 2. **ToolSynthesizer Agent:** Analyzes the stack exception context and generates declarative data extraction configurations rather than running arbitrary, unsafe code blocks.
 3. **DataValidator Agent:** Enforces cryptographic schema checks and absolute transactional checksum alignments down to the penny.
 
-
-
 ---
 
 ## 🛠️ Key Concepts Implemented (Kaggle Capstone Criteria)
@@ -27,12 +24,13 @@ DataBridge AI relies on an orchestration pattern consisting of three specialized
 
 ## 🚀 Installation & Local Environment Setup
 
-Clone the repository and run the engine locally using python's built-in standard libraries:
+Clone the repository and run the engine locally using Python's built-in standard libraries:
 
-```bash
 # Clone the core repository
-git clone [https://github.com/your-username/databridge-ai.git](https://github.com/your-username/databridge-ai.git)
-cd databridge-ai
+git clone https://github.com/jaspinderkaur0608-sudo/DataBridge-AI.git
+
+# Navigate into the project folder
+cd DataBridge-AI
 
 # Execute the core self-healing pipeline demo
 python main.py
